@@ -8,8 +8,10 @@
 
 ## Technology - Front End
 - [ReactJS](https://reactjs.org/)
+- [React Router](https://github.com/ReactTraining/react-router/)
 - [Apollo Client](https://github.com/apollographql/apollo-client)
 - [Material-UI](https://material-ui.com/)
+
 
 ## Tools 
 - [Postgress.app](https://postgresapp.com/)
@@ -30,7 +32,7 @@
 - Add pip to your path if you haven't already done so.
 - Intall Django via pip via: `python3 pip install django` 
 - Install Graphene for Django via: `python3 pip install "graphene-django>=2.0"`
-- MOre instructions to come?
+- More instructions to come?
 
 ### NodeJS Instalation
 - If you don't already have NodeJS on your machineg go to the [Node Website](https://nodejs.org/en/) and download the appropriate package.
