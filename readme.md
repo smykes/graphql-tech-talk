@@ -24,8 +24,11 @@
 ## Instructions (Mac Only)
 #### Database Seeding
 - Download the [Postgress.app](https://postgresapp.com/)
-    - Start up a local instance of a Postgresql server.
-- More Instructions to come.
+    - Start up a local instance of a Postgresql server by launching the Postgres app.
+    - Launch your favorite Postgresql application [Postico](https://https://eggerapps.at/postico/) is one such option.
+    - Connect to 127.0.0.1
+    - Create a new database called graph_ql
+    - Use the import scripts included in this repository to populate your database.
 
 #### Python Instalation
 - If you don't already have Python 3 go to the [Python Website](https://www.python.org/downloads/) and download the appropriate package.
